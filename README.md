@@ -6,4 +6,4 @@
   - Joan Sebastian Contreras
   - Fernando Vargas
   - Camilo Rodriguez
-  - Juan Camilo Florez
+  - Juan Camilo Florez Vanegas
